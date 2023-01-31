@@ -1,0 +1,1 @@
+https://www.topcoder.com/thrive/articles/many-to-many-relationships-in-mysql-database-using-sequelize-orm
